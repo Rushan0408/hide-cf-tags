@@ -38,11 +38,11 @@ A lightweight Chrome/Opera browser extension that automatically hides the **Prob
 
 * By default, the **Problem tags** section is hidden, and you’ll see a button like:
 
-  ![Hidden Tags Example](screenshots/hidden.jpeg)
+  ![Hidden Tags Example](screenshots/shown.jpeg)
 
 * Click the **Show Tags** button next to the “Problem tags” header to reveal them:
 
-  ![Show Tags Example](screenshots/shown.jpeg)
+  ![Show Tags Example](screenshots/hidden.jpeg)
 
 * Click **Hide Tags** again to conceal them.
 
