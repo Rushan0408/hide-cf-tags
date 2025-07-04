@@ -34,9 +34,18 @@ A lightweight Chrome/Opera browser extension that automatically hides the **Prob
 
 ## ✅ Usage
 
-* Navigate to any Codeforces problem page (e.g. `https://codeforces.com/problemset/problem/1234/A`).
-* By default, the **Problem tags** section is hidden.
-* Click the **Show Tags** button next to the “Problem tags” header to reveal them, or **Hide Tags** to conceal again.
+* Navigate to any Codeforces problem page, e.g. `https://codeforces.com/problemset/problem/1234/A`.
+
+* By default, the **Problem tags** section is hidden, and you’ll see a button like:
+
+  ![Hidden Tags Example](screenshots/hidden.jpeg)
+
+* Click the **Show Tags** button next to the “Problem tags” header to reveal them:
+
+  ![Show Tags Example](screenshots/shown.jpeg)
+
+* Click **Hide Tags** again to conceal them.
+
 * Your preference is saved across page loads and browser restarts.
 
 ---
